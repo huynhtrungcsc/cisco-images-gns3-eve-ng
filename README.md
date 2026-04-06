@@ -20,10 +20,11 @@ Build your lab, practice your skills — continuously updated
   - [Cisco IOS Images For GNS3](#cisco-ios-images-for-gns3)
   - [Cisco IOU Images For GNS3](#cisco-iou-images-for-gns3)
   - [Cisco ASA Firewall Images For GNS3](#cisco-asa-firewall-images-for-gns3)
-- [GNS3 Free Appliance Files](#gns3-free-appliance-files)
+  - [GNS3 Free Appliance Files](#gns3-free-appliance-files)
 - [Cisco Images For EVE-NG](#cisco-images-for-eve-ng)
 - [Usage Notes](#usage-notes)
 - [Contributing](#contributing)
+- [Acknowledgments](#acknowledgments)
 - [Disclaimer](#disclaimer)
 - [License](#license)
 
@@ -109,7 +110,7 @@ Build your lab, practice your skills — continuously updated
 
 ---
 
-## GNS3 Free Appliance Files
+### GNS3 Free Appliance Files
 
 > **GNS3 Appliance Files** (`.gns3a`) contain pre-configured templates for importing appliances directly into GNS3.  
 > To import: open GNS3 → **File** → **Import Appliance** → select the `.gns3a` file.
@@ -156,6 +157,18 @@ Contributions are welcome. If you have additional images to share:
 3. Submit a Pull Request with a clear, descriptive title.
 
 Please ensure all shared links are **publicly accessible** and use a reliable file hosting service.
+
+---
+
+## Acknowledgments
+
+Parts of the content in this repository were referenced and compiled from publicly available internet sources, including:
+
+- <a href="https://github.com/hegdepavankumar/Cisco-Images-for-GNS3-and-EVE-NG" target="_blank"><strong>hegdepavankumar/Cisco-Images-for-GNS3-and-EVE-NG</strong></a> — a well-maintained open-source reference repository for Cisco simulation images.
+
+Full credit goes to the original authors and contributors. This repository does not claim original ownership of any linked images or appliance files. All content is shared for educational and lab purposes only.
+
+If you are the original author of any content listed here and wish to be credited differently or have material removed, please open an [Issue](../../issues).
 
 ---
 
