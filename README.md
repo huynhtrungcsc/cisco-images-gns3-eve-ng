@@ -32,9 +32,11 @@ Build your lab, practice your skills — continuously updated
 
 <div align="center">
 
-**🔑 Default Credentials for All Images**
+**🔑 Default Credentials & Image Naming Reference**
 
-[![View Passwords Reference](https://img.shields.io/badge/View%20Passwords%20Reference-ALL--PASSWORDS.md-red?style=for-the-badge&logo=github)](ALL-PASSWORDS.md)
+[![All Passwords](https://img.shields.io/badge/All%20Passwords-ALL--PASSWORDS.md-red?style=for-the-badge&logo=github)](ALL-PASSWORDS.md)
+[![Qemu Passwords](https://img.shields.io/badge/EVE--NG%20Qemu%20Passwords-QEMU--PASSWORDS.md-orange?style=for-the-badge&logo=github)](QEMU-PASSWORDS.md)
+[![Qemu Namings](https://img.shields.io/badge/EVE--NG%20Qemu%20Namings-QEMU--IMAGE--NAMINGS.md-blue?style=for-the-badge&logo=github)](QEMU-IMAGE-NAMINGS.md)
 
 </div>
 
