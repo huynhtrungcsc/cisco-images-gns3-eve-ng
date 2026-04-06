@@ -30,11 +30,11 @@ Build your lab, practice your skills — continuously updated
 
 ---
 
-## Cisco Images For GNS3
-
-> 🔑 **Default credentials for all images:** [EVE-NG and GNS3 Images — Default Credentials](PASSWORDS.md)
+> 🔑 **Default credentials for all images:** [View Passwords Reference](PASSWORDS.md)
 
 ---
+
+## Cisco Images For GNS3
 
 ### Cisco IOS Images For GNS3
 
