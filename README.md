@@ -90,14 +90,14 @@ Build your lab, practice your skills — continuously updated
 > To import: open GNS3 → **Edit** → **Preferences** → **QEMU VMs** → **New**.  
 > For file format and appliance details, visit the <a href="https://gns3.com/marketplace/appliances" target="_blank">GNS3 Official Marketplace</a>.
 
-| # | Cisco ASA Filename | Download | Version |
-|:-:|-------------------|:--------:|:-------:|
-| 1 | `asav981.qcow2` | <a href="https://drive.google.com/file/d/1fv8wtbhylq9Oas2PomfowEU-hxKWHq3J/view?usp=drive_link" target="_blank">⬇ Download</a> | ASAv 9.8.1 |
-| 2 | `asav991.qcow2` | <a href="https://drive.google.com/file/d/1xtzmQTRdLJV4pqC3ueiLactToRQik7d5/view?usp=drive_link" target="_blank">⬇ Download</a> | ASAv 9.9.1 |
-| 3 | `asav992-32.qcow2` | <a href="https://drive.google.com/file/d/15oYs6TaYnYKaRjgHpLHTnQc-307YpZ2H/view?usp=drive_link" target="_blank">⬇ Download</a> | ASAv 9.9.2 |
-| 4 | `asav981.qcow2` | <a href="https://drive.google.com/file/d/1WTOJyg7i3eYXrMJw2DCHwiLAPQCNcKZk/view?usp=drive_link" target="_blank">⬇ Download</a> | ASAv 9.8.1 |
-| 5 | `asa842-initrd.gz` | <a href="https://drive.google.com/file/d/1apdc1ZE182eskG4uh-NYlRs2HtoUkUlT/view?usp=drive_link" target="_blank">⬇ Download</a> | ASA 8.4.2 |
-| 6 | `asa-915-k8.qcow2` | <a href="https://drive.google.com/file/d/1p5vbVlhvWkbVcP46Y8ptWgO01GEd35ay/view?usp=drive_link" target="_blank">⬇ Download</a> | ASA 9.1.5 |
+| # | Cisco ASA Name | Download | Version |
+|:-:|----------------|:--------:|:-------:|
+| 1 | Cisco ASA 8.4.2 | <a href="https://drive.google.com/file/d/1fv8wtbhylq9Oas2PomfowEU-hxKWHq3J/view?usp=drive_link" target="_blank">⬇ Download</a> | 8.4.2 |
+| 2 | Cisco ASA 9.1.5 | <a href="https://drive.google.com/file/d/1xtzmQTRdLJV4pqC3ueiLactToRQik7d5/view?usp=drive_link" target="_blank">⬇ Download</a> | 9.1.5 |
+| 3 | Cisco ASAv 9.8.1 | <a href="https://drive.google.com/file/d/15oYs6TaYnYKaRjgHpLHTnQc-307YpZ2H/view?usp=drive_link" target="_blank">⬇ Download</a> | ASAv 9.8.1 |
+| 4 | Cisco ASAv 9.8.3 | <a href="https://drive.google.com/file/d/1WTOJyg7i3eYXrMJw2DCHwiLAPQCNcKZk/view?usp=drive_link" target="_blank">⬇ Download</a> | ASAv 9.8.3 |
+| 5 | Cisco ASAv 9.9.1 | <a href="https://drive.google.com/file/d/1apdc1ZE182eskG4uh-NYlRs2HtoUkUlT/view?usp=drive_link" target="_blank">⬇ Download</a> | ASAv 9.9.1 |
+| 6 | Cisco ASAv 9.9.2 | <a href="https://drive.google.com/file/d/1p5vbVlhvWkbVcP46Y8ptWgO01GEd35ay/view?usp=drive_link" target="_blank">⬇ Download</a> | ASAv 9.9.2 |
 | 7 | ASDM | <a href="https://t.me/resourcehub1" target="_blank">Join Community Group</a> *(external source)* | All versions |
 
 > **Additional image sources** (mirrors & bundles):
