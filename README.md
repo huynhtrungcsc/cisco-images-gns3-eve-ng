@@ -18,6 +18,7 @@ Ready-to-use firmware images hosted on Google Drive for instant download
 
 - [Cisco Images For GNS3](#cisco-images-for-gns3)
   - [Cisco IOS Images For GNS3](#cisco-ios-images-for-gns3)
+  - [Cisco IOU Images For GNS3](#cisco-iou-images-for-gns3)
 - [Cisco Images For EVE-NG](#cisco-images-for-eve-ng)
 - [Usage Notes](#usage-notes)
 - [Contributing](#contributing)
@@ -46,6 +47,36 @@ Ready-to-use firmware images hosted on Google Drive for instant download
 | 9 | `c7200-adventerprisek9-mz.153-3.XB12.image` | [⬇ Download](https://drive.google.com/file/d/19IR2eqAHaqo6e35k7ALou2RHgTz0Pk0u/view?usp=sharing) |
 | 10 | `c7200-adventerprisek9-mz.152-4.S6.image` | [⬇ Download](https://drive.google.com/file/d/1T5RXYdTHGOkXs-VuOpOCXg3zZZ2SYSoQ/view?usp=sharing) |
 | 11 | `c7200-adventerprisek9-mz.124-24.T5.image` | [⬇ Download](https://drive.google.com/file/d/1W55QMXgjXspx1M4cMyJ613tHX9g8jKm2/view?usp=sharing) |
+
+> More images will be added continuously. **Star ⭐ this repository** to get notified on updates.
+
+---
+
+### Cisco IOU Images For GNS3
+
+> **IOU** (IOS on Unix) runs directly on Linux without Dynamips — lighter and faster for multi-device labs.  
+> To import: open GNS3 → **Edit** → **Preferences** → **IOS on Unix** → **New**.
+
+| # | Cisco IOU Name | Download | Type |
+|:-:|----------------|:--------:|:----:|
+| 1 | `i86bi-linux-l2-adventerprise-15.1b.bin` | [⬇ Download](https://drive.google.com/file/d/1DVUdCAqQDcA2QLgzU65IgplN-rDhndYg/view?usp=drive_link) | `L2` |
+| 2 | `i86bi-linux-l2-adventerprisek9-15.1a.bin` | [⬇ Download](https://drive.google.com/file/d/1iDJkSbr8F-QFwaKiaLHvAigDWVxMaZiQ/view?usp=drive_link) | `L2` |
+| 3 | `i86bi-linux-l2-ipbasek9-15.1a.bin` | [⬇ Download](https://drive.google.com/file/d/1hTS1ZnVCCsnJJ4If0XMdvunMTSpDcmNb/view?usp=drive_link) | `L2` |
+| 4 | `i86bi-linux-l2-ipbasek9-15.1b.bin` | [⬇ Download](https://drive.google.com/file/d/12B4sXO9SqVjo_gCkSkpdi4UxNfcigRQC/view?usp=drive_link) | `L2` |
+| 5 | `i86bi-linux-l2-ipbasek9-15.1c.bin` | [⬇ Download](https://drive.google.com/file/d/1yNSmKbintMQrf0jhzg6J4SK6qJ7JmhT6/view?usp=drive_link) | `L2` |
+| 6 | `i86bi-linux-l2-ipbasek9-15.1d.bin` | [⬇ Download](https://drive.google.com/file/d/1O9d2QumaCK57iUY2iio7NLGX5Qj7aySL/view?usp=drive_link) | `L2` |
+| 7 | `i86bi-linux-l2-ipbasek9-15.1e.bin` | [⬇ Download](https://drive.google.com/file/d/1bj2EGAmcmfAHOHagizkSrPzvkSD5SII9/view?usp=drive_link) | `L2` |
+| 8 | `i86bi-linux-l2-ipbasek9-15.1f.bin` | [⬇ Download](https://drive.google.com/file/d/1RlbQ3uSdHESP5gwPY4ZXl7t3UkNNR6_r/view?usp=drive_link) | `L2` |
+| 9 | `i86bi-linux-l2-ipbasek9-15.1g.bin` | [⬇ Download](https://drive.google.com/file/d/169Mynz_2jopko9oySKFfmxeOeUaoIrtO/view?usp=drive_link) | `L2` |
+| 10 | `i86bi-linux-l2-upk9-12.2.bin` | [⬇ Download](https://drive.google.com/file/d/17OyfiHs4Ro9pQKsmF-X7LsDJHHD7AEpW/view?usp=drive_link) | `L2` |
+| 11 | `i86bi-linux-l2-upk9-15.0a.bin` | [⬇ Download](https://drive.google.com/file/d/1ooT4_KGhPpoOqKUCC6O_Uavvh4mJJ70O/view?usp=drive_link) | `L2` |
+| 12 | `i86bi-linux-l2-upk9-15.0b.bin` | [⬇ Download](https://drive.google.com/file/d/1u5SVZTTatA0-m0lfi3P3QoI2pi8dg6Zd/view?usp=drive_link) | `L2` |
+| 13 | `i86bi-linux-l3-jk9s-15.0.1.bin` | [⬇ Download](https://drive.google.com/file/d/1LocRT8_wQDde9gvqG2ODIu_S1JrUzxN6/view?usp=drive_link) | `L3` |
+| 14 | `i86bi-linux-l3-p-15.0a.bin` | [⬇ Download](https://drive.google.com/file/d/1P0In8MJ9Isa2ApExX3FPs3R4LzEbPr_F/view?usp=drive_link) | `L3` |
+| 15 | `i86bi-linux-l3-p-15.0b.bin` | [⬇ Download](https://drive.google.com/file/d/1v-GtpZrloQirB6_8jbDtxbGZWQXxG6_-/view?usp=drive_link) | `L3` |
+| 16 | `i86bi-linux-l3-tpgen-adventerprisek9-12.4.bin` | [⬇ Download](https://drive.google.com/file/d/1SS1hMh1AZSTSsKBkfv_QeE2KjirXvNWl/view?usp=drive_link) | `L3` |
+
+> **L2** — Layer 2 switch image &nbsp;|&nbsp; **L3** — Layer 3 router image
 
 > More images will be added continuously. **Star ⭐ this repository** to get notified on updates.
 
