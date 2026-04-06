@@ -34,7 +34,7 @@ Build your lab, practice your skills — continuously updated
 
 **🔑 Default Credentials for All Images**
 
-[![View Passwords Reference](https://img.shields.io/badge/View%20Passwords%20Reference-PASSWORDS.md-red?style=for-the-badge&logo=github)](PASSWORDS.md)
+[![View Passwords Reference](https://img.shields.io/badge/View%20Passwords%20Reference-ALL--PASSWORDS.md-red?style=for-the-badge&logo=github)](ALL-PASSWORDS.md)
 
 </div>
 
