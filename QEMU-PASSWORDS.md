@@ -256,5 +256,7 @@ Credential list referenced and compiled from publicly available community resour
 <div align="center">
   <a href="README.md">← Back to Main README</a>
   &nbsp;|&nbsp;
-  <a href="PASSWORDS.md">📋 GNS3 / EVE-NG All Images Passwords</a>
+  <a href="ALL-PASSWORDS.md">📋 All Images Passwords</a>
+  &nbsp;|&nbsp;
+  <a href="QEMU-IMAGE-NAMINGS.md">📁 EVE-NG Qemu Image Namings</a>
 </div>
