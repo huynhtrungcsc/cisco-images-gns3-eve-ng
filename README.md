@@ -20,6 +20,7 @@ Build your lab, practice your skills — continuously updated
   - [Cisco IOS Images For GNS3](#cisco-ios-images-for-gns3)
   - [Cisco IOU Images For GNS3](#cisco-iou-images-for-gns3)
   - [Cisco ASA Firewall Images For GNS3](#cisco-asa-firewall-images-for-gns3)
+- [GNS3 Free Appliance Files](#gns3-free-appliance-files)
 - [Cisco Images For EVE-NG](#cisco-images-for-eve-ng)
 - [Usage Notes](#usage-notes)
 - [Contributing](#contributing)
@@ -105,6 +106,20 @@ Build your lab, practice your skills — continuously updated
 > - <a href="https://drive.google.com/drive/folders/102jxZ9ECpe6ZFtXYdK_81iEVuuFoGOGR" target="_blank">Google Drive folder</a>
 
 > More images will be added continuously. **Star ⭐ this repository** to get notified on updates.
+
+---
+
+## GNS3 Free Appliance Files
+
+> **GNS3 Appliance Files** (`.gns3a`) contain pre-configured templates for importing appliances directly into GNS3.  
+> To import: open GNS3 → **File** → **Import Appliance** → select the `.gns3a` file.
+
+| # | Appliance Name | Download |
+|:-:|----------------|:--------:|
+| 1 | `network_automation.gns3a` | <a href="https://drive.google.com/file/d/1pWA60d7TeX834MyRuOrpkWc9PK1GAbL6/view?usp=drive_link" target="_blank">⬇ Download</a> |
+| 2 | `ubuntu-docker.gns3a` | <a href="https://drive.google.com/file/d/1gT9cNwaFEw_gsYJXWlpHo-IDTOiGDhcG/view?usp=drive_link" target="_blank">⬇ Download</a> |
+
+> More appliance files will be added continuously. **Star ⭐ this repository** to get notified on updates.
 
 ---
 
