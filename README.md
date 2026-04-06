@@ -2,12 +2,12 @@
 
 # Network Emulator Images
 
-**Cisco IOS Images for GNS3 and EVE-NG Network Simulation**  
-Ready-to-use firmware images hosted on Google Drive for instant download
+**A curated library of Cisco network appliance images for GNS3 and EVE-NG**  
+IOS &nbsp;·&nbsp; IOU &nbsp;·&nbsp; ASA Firewall &nbsp;·&nbsp; and more — ready for your next lab
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/platform-GNS3%20%7C%20EVE--NG-blue.svg)](https://www.gns3.com)
-[![Vendor](https://img.shields.io/badge/vendor-Cisco%20IOS-1BA0D7.svg)](https://www.cisco.com)
+[![Vendor](https://img.shields.io/badge/vendor-Cisco-1BA0D7.svg)](https://www.cisco.com)
 [![Status](https://img.shields.io/badge/status-active-brightgreen.svg)](#)
 
 </div>
