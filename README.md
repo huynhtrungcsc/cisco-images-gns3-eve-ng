@@ -32,6 +32,15 @@ Build your lab, practice your skills — continuously updated
 
 ## Cisco Images For GNS3
 
+| | Section | Description |
+|:-:|---------|-------------|
+| 🖥️ | [Cisco IOS Images For GNS3](#cisco-ios-images-for-gns3) | Classic IOS router images for Dynamips emulation |
+| 🔀 | [Cisco IOU Images For GNS3](#cisco-iou-images-for-gns3) | IOS on Unix — lightweight L2/L3 images |
+| 🛡️ | [Cisco ASA Firewall Images For GNS3](#cisco-asa-firewall-images-for-gns3) | ASA and ASAv firewall images |
+| 📦 | [GNS3 Free Appliance Files](#gns3-free-appliance-files) | Pre-configured `.gns3a` appliance templates |
+
+---
+
 ### Cisco IOS Images For GNS3
 
 > Compatible with **GNS3** (Graphical Network Simulator-3) and the **Dynamips** emulator.  
