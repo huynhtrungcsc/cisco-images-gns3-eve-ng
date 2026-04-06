@@ -220,4 +220,6 @@ Credential list referenced and compiled from publicly available community resour
 
 <div align="center">
   <a href="README.md">← Back to Main README</a>
+  &nbsp;|&nbsp;
+  <a href="QEMU-PASSWORDS.md">🖥️ EVE-NG Qemu Images Passwords</a>
 </div>
